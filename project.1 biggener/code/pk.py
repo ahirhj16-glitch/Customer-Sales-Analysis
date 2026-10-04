@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # =========================
 # 1. Load Data
 # =========================
-df = pd.read_csv("data/s.csv")
+df = pd.read_csv("project.1 biggener/Data/s.csv")
 
 
 # =========================
